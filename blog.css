@@ -23,7 +23,7 @@ nav a:hover{
 
 body {
     background: linear-gradient(to right, rgba(32, 38, 237, 0.5), rgba(83, 50, 136, 0.5));
-    background-image: url(/IMAGES/moroccan-flower.png);
+    background-image: url(./moroccan-flower.png);
     background-size: cover;
     background-position: center;
 }
